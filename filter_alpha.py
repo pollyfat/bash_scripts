@@ -1,6 +1,8 @@
 #!/usr/bin/env python  
 #encoding: utf-8
 
+# 过滤掉除字母和.号外的所有字符, 并且把大写改成小写
+
 import re
 import sys
 import os
